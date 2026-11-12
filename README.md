@@ -1,6 +1,6 @@
-# Criptografia: maquina Enigma
+# Criptografia: cifra de Vigenere
 
-TDE de Estrutura de Dados II (UCS): pesquisa e teste de um algoritmo de criptografia de dados. O algoritmo escolhido e a maquina Enigma (modelo Enigma I, com 3 rotores, refletor e painel de conexoes), implementada em C.
+TDE de Estrutura de Dados II (UCS): pesquisa e teste de um algoritmo de criptografia de dados. O algoritmo escolhido e a cifra de Vigenere (modelo Enigma I, com 3 rotores, refletor e painel de conexoes), implementada em C.
 
 ## Enunciado
 
@@ -12,5 +12,5 @@ TDE de Estrutura de Dados II (UCS): pesquisa e teste de um algoritmo de criptogr
 
 ```
 make
-./enigma
+./vigenere
 ```

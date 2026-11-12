@@ -1,8 +1,8 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -O2 -g
 
-enigma: enigma.c
-	$(CC) $(CFLAGS) -o enigma enigma.c
+vigenere: vigenere.c
+	$(CC) $(CFLAGS) -o vigenere vigenere.c
 
 clean:
-	rm -f enigma
+	rm -f vigenere
