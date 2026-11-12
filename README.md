@@ -60,7 +60,6 @@ O código está em `vigenere.c`.
 ## Fontes
 
 - <https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher>
-- <https://pt.wikipedia.org/wiki/Cifra_de_Vigen%C3%A8re>
 
 ## Uso de IA
 
